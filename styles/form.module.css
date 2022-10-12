@@ -1,0 +1,13 @@
+.select_form {
+    background-color: rgb(119, 140, 233);
+    color: white;
+    font-weight: 5px;
+    font-family: serif;
+}
+
+.container_form {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,35 @@
+.submit_button {
+    background-color: rgb(119, 140, 233);
+    color: white;
+    padding: 10px;
+    text-transform: capitalize;
+}
+
+.submit_button:hover {
+    background-color: white;
+    color: rgb(119, 140, 233);
+    border: 1px solid rgb(119, 140, 233);
+}
+
+.submit_button:active {
+    background-color: rgb(57, 238, 105);
+    color: white;
+}
+
+.exchange_button {
+    background-color: rgb(119, 140, 233);
+    color: white;
+    font-size: large;
+    padding: 10px;
+}
+
+.exchange_button:hover {
+    background-color: white;
+    color: rgb(119, 140, 233);
+    border: 1px solid rgb(119, 140, 233);
+}
+
+.container_button {
+    display: flex;
+    justify-content: center;
+}
